@@ -18,14 +18,3 @@ This is a full-stack web application that allows users to search for recipes bas
 * **Third-Party API**: Spoonacular API.
 
 ***
-
-### Getting Started
-
-Follow these steps to get a copy of the project up and running on your local machine.
-
-#### **1. Clone the Repository**
-First, clone the project from GitHub and navigate into the main project folder.
-
-```bash
-git clone [https://github.com/](https://github.com/)[Your-Username]/[Your-Repo-Name].git
-cd [Your-Repo-Name]
